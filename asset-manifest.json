@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/A-03-REACT-COUNTER-CHALLENGE/static/css/main.c0a13da7.css",
+    "main.css": "/A-03-REACT-COUNTER-CHALLENGE/static/css/main.3ff65f67.css",
     "main.js": "/A-03-REACT-COUNTER-CHALLENGE/static/js/main.4c7db08a.js",
     "index.html": "/A-03-REACT-COUNTER-CHALLENGE/index.html",
-    "main.c0a13da7.css.map": "/A-03-REACT-COUNTER-CHALLENGE/static/css/main.c0a13da7.css.map",
+    "main.3ff65f67.css.map": "/A-03-REACT-COUNTER-CHALLENGE/static/css/main.3ff65f67.css.map",
     "main.4c7db08a.js.map": "/A-03-REACT-COUNTER-CHALLENGE/static/js/main.4c7db08a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a13da7.css",
+    "static/css/main.3ff65f67.css",
     "static/js/main.4c7db08a.js"
   ]
 }

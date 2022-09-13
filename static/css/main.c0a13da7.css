@@ -1,2 +1,0 @@
-body{display:grid;grid-template-rows:auto 1fr;height:100vh;margin:0;padding:0;width:100vw}header{background-color:red;justify-content:space-between}.main,header{display:flex;padding:20px}.main{flex-direction:column;gap:20px}.counter{display:flex;gap:20px;justify-content:center}#count{font-size:2rem;font-weight:700}.stars{display:flex;flex-wrap:wrap;gap:5px;justify-content:center}.star{border:1px solid #e5e549;border-radius:5px;font-size:1.3rem;padding:5px}
-/*# sourceMappingURL=main.c0a13da7.css.map*/
